@@ -1,6 +1,6 @@
 Magical UX and the Internet of Things
 =====================================
-By Josh Clark
+*By Josh Clark*
 
 Automated gadgetry
 Magic wands (combining voice and physical action to create interaction)
@@ -12,6 +12,7 @@ Natural interactions where technology intersects
 Creating magic
 
 I. Magic & technology
+---------------------
 
 "Any sufficiently advanced technology is indistinguishable from magic."
 
@@ -27,6 +28,7 @@ How do we design interactions with information?
 Take the good things from mobile and apply them to our interactions elsewhere
 
 II. Physical Meets Digital
+--------------------------
 
 Ambient intelligence
 
@@ -53,3 +55,20 @@ The World has Depth and Mass
 Thaw (mit)
 
 III. Magic, Imagined
+--------------------
+
+What are the objects we already use, and how can they be magical?
+
+What if it can
+- listen
+- have siblings
+- speak
+- behave as it already does, just enhanced
+
+Rhyming with our mental map of things that already exist, but applied to new technologies
+
+It's more than data
+
+Losing agency to unreliable technology
+
+These are things that need to help us engage with the outside and each other
