@@ -53,4 +53,23 @@ The Robustness Principle
 
 These ideas work because CSS & HTML are declarative languages (instruction sets)
 
-Javascript is imperative, needs 
+Javascript is imperative, needs careful error handling, fragile
+
+Murphy's law. Whee!
+
+Websites should be built to survive the instability of the web.
+
+How to do this:
+1. What's my core functionality?
+  - identify the barebones thing that you want to provide
+2. How do I make this functionality available through the simplest technology available?
+  - for presentation, html
+  - for messaging, html
+  - for sending, html
+  - for viewing images, html
+
+3. What do I do to make this more: engaging, visually interesting, etc.
+
+Space Elevator
+
+http://www.frankchimero.com/writing/there-is-a-horse-in-the-apple-store/
