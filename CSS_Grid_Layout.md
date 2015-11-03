@@ -20,6 +20,7 @@ Column and row counts
 - grid-template-columns
 - grid-template-rows
 - can use repeat keyword to multiply columns in an automated way
+- can use subgrid keyword to leverage parent grid definition if used on a child
 
 Gutters
 - grid-column-gap
@@ -78,3 +79,9 @@ can mix fractions and pixels, applies px first then fr.
 Allows for incredibly flexible prototyping, designing in the browser
 
 Be aware of potential accessibility implications
+Semantics must still be used
+Grid does not change order in which source is read
+Can have implications for tab order
+
+Grid cells can become grids as well
+Subgrid keyword
