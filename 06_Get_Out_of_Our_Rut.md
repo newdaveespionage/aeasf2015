@@ -15,3 +15,5 @@ is there an advantage to columns at this point in technology?
 vh keeps the viewport in mind
 
 truncation is not a content strategy
+
+Mainly an inspirational talk with lots of idea slides
