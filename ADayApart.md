@@ -59,17 +59,24 @@ Wide brush strokes are the missing link in some contexts
 
 Tweets
 ------
-Andrea Burton ‏@andreaburton
-are we really ok with the portmanteau "phablets"?? #aeasf  i can't say that seriously.
 
-Elizabeth Newman ‏@eLizz1e
-Moving the controls on your device to keep everything in the thumb zone feels a little like giving up. #sotrue #aeasf @bigmediumjosh
+[Storify Story](https://storify.com/daveespionage/a-day-apart-san-francisco-2015)
 
-davina pallone ‏@davinapallone
-mental note: overlay thumb maps for various devices on my responsive designs to check for nav & action placement @bigmediumjosh #aeasf
-so weird, the ways some big phones and phablets can "shrink" the UI to make things easier to reach. seems hacky. @bigmediumjosh #aeasf
-i really like the floating "exploding snowball" pattern for actions. what are the downsides, e.g. covering content? @bigmediumjosh #aeasf
+Andrea Burton ‏[@andreaburton](http://www.twitter.com/andreaburton)
 
-Stephanie Plumeri ‏@s_plum
-The finger is dead. Long live the meatpointer. @bigmediumjosh #aeasf
-Use of share buttons on mobile sites is low - users prefer to use native share functionality. #aeasf
+- are we really ok with the portmanteau "phablets"?? #aeasf  i can't say that seriously.
+
+Elizabeth Newman ‏[@eLizz1e](http://www.twitter.com/eLizz1e)
+
+- Moving the controls on your device to keep everything in the thumb zone feels a little like giving up. #sotrue #aeasf @bigmediumjosh
+
+davina pallone ‏[@davinapallone](http://www.twitter.com/davinapallone)
+
+- mental note: overlay thumb maps for various devices on my responsive designs to check for nav & action placement @bigmediumjosh #aeasf
+- so weird, the ways some big phones and phablets can "shrink" the UI to make things easier to reach. seems hacky. @bigmediumjosh #aeasf
+- i really like the floating "exploding snowball" pattern for actions. what are the downsides, e.g. covering content? @bigmediumjosh #aeasf
+
+Stephanie Plumeri ‏[@s_plum](http://www.twitter.com/s_plum)
+
+- The finger is dead. Long live the meatpointer. @bigmediumjosh #aeasf
+- Use of share buttons on mobile sites is low - users prefer to use native share functionality. #aeasf
