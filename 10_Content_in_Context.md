@@ -57,6 +57,6 @@ V [‏@WhatAboutV](http://www.twitter.com/‏@WhatAboutV)
 - Minimum Viable Interaction: the smallest amount of information and functionality
 needed to complete an interaction. @feather #MVI #aeasf
 
-Jeffrey ZeldmanVerified account ‏[@zeldman](http://www.twitter.com/zeldman)
+Jeffrey Zeldman ‏[@zeldman](http://www.twitter.com/zeldman)
 
 - Geolocation begs us to present contextually relevant info (e.g. in an airline app, when the user is at the airport). @feather #aeasf
