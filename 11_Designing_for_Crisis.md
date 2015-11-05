@@ -1,6 +1,6 @@
 Designing for Crisis
 ====================
-*by Eric Meyer*
+*By Eric Meyer*
 
 Navigating a site in a state of stress and disorientation isn't that far off from "the user is drunk" context idea.
 Do not assume vocabulary translates 1:1 for all visitors to your site who are relevant.

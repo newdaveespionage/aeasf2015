@@ -1,5 +1,6 @@
 Resilience
 ==========
+*By Jeremy Keith*
 
 Communication methods
 ---------------------

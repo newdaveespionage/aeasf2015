@@ -1,8 +1,7 @@
 Designing for Social Behavior
 =============================
+*By Sarah Parmenter*
 
-Sarah Parmenter
----------------
 
 Issues:
 - "Social Media Expert"

@@ -3,8 +3,7 @@ Zeldman.md
 
 Career Advice From an Angry Old Man
 -----------------------------------
-
-By Jeffery Zeldman
+*By Jeffery Zeldman*
 
 Notes
 -----

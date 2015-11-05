@@ -1,6 +1,6 @@
-
-
-Cameron Moll
+Unified UX
+==========
+*By Cameron Moll*
 
 Creator of Authentic Jobs
 

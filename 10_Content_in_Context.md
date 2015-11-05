@@ -1,6 +1,6 @@
 Content In Context Is King
 ==========================
-*by Derek Featherstone*
+*By Derek Featherstone*
 
 So many distinctive moments happen out of spontenaiety, in circumstances that cannot be reproduced with the same scale of result.
 

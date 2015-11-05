@@ -1,7 +1,6 @@
 Design Decisions Through the Lens of Performance
 ================================================
-
-By Yesenia Perez-Cruz
+*By Yesenia Perez-Cruz*
 
 Slow heavy websites are the result of poor:
 - planning

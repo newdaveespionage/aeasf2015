@@ -1,6 +1,6 @@
 Designing for Touch
 ===================
-
+*By Josh Clark*
 
 
 Touch region is becoming harder to predict, so designing interfaces is more about the known hit spots

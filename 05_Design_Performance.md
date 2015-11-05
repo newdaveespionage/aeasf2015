@@ -1,7 +1,6 @@
 Designing for Performance
 =========================
-
-by Lara Callender Hogan
+*by Lara Callender Hogan*
 
 @lara_hogan
 

@@ -1,7 +1,6 @@
 Getting Out of Our Rut
 ======================
-
-Jen Simmons
+*By Jen Simmons*
 
 - We're stuck in the sidebar
 - We're misunderstanding responsive design
